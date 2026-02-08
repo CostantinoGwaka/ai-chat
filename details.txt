@@ -1,0 +1,61 @@
+--- course for ai with mosh
+
+--- llm (large language models)
+
+--- token,cost, model selection
+
+--- rise of ai
+    since chatgpt -- new models every months
+
+--- LLM, Prompt Engineering, Retrieval Augmented Generator, Vector Databases, Building Agents
+
+1. Large Language model
+
+a system that's trained to understand and generate human language -- commercial model (gpt,gemini,claude,grok) -- open source (llama,mistral)
+ books,articles,forums,code,documentation and web checkng for grammar,sentence structure,phrasing and common facts
+
+essential AI skills
+
+talk to AI models (prompting)
+
+hanlde therir limitations
+
+integrate them into apps
+
+most common use cases of use of LLM
+
+summarization
+
+content generation
+
+text classfication
+
+translation
+
+data extraction
+
+chat interface
+
+
+token -- spliting
+
+
+choosing model
+
+1. reasoning
+2. speed
+3. modalities (input and output) -- image audio
+4. cost
+5. context window -- input - output
+6. privacy
+
+
+temprature of ai response 0-2
+
+0.2 -- 0.4 for logical, precise answers
+
+0.7 -- 1.0 for creative, expressive tasks
+
+next work 
+
+0.3 perfect to 1.0
