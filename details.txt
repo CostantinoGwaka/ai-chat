@@ -80,3 +80,6 @@ unset OPENAI_API_KEY
 frontend cliend
 
 bun create vite .  -- create
+
+
+CONNECT BACKEND AND frontend
