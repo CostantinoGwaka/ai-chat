@@ -59,3 +59,24 @@ temprature of ai response 0-2
 next work 
 
 0.3 perfect to 1.0
+
+
+bun
+
+bun.sh -- curl -fsSL https://bun.sh/install | bash
+
+create package for client and server -- 
+
+bun init for boths
+
+bun add express -- to add web servers
+bun add -d @types/express -- express dependecies for server features
+bun run index.ts -- running prooject
+
+KEY MAC
+unset OPENAI_API_KEY
+
+
+frontend cliend
+
+bun create vite .  -- create
