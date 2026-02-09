@@ -91,3 +91,5 @@ CONNECT BACKEND AND frontend
  bun  add -D @types/node
 
  bunx --bun shadcn@latest init
+
+  bun add zod -- data validator
