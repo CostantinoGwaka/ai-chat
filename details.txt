@@ -85,3 +85,9 @@ bun create vite .  -- create
 CONNECT BACKEND AND frontend
 
  bun add -d concurrently -- to run both frontend and backend
+
+ add shadcn UI on my app
+
+ bun  add -D @types/node
+
+ bunx --bun shadcn@latest init
