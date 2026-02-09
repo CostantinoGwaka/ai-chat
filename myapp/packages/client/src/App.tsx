@@ -12,7 +12,7 @@ function App() {
   // }, []);
 
   return (
-    <div className="p-3">
+    <div className="p-4 w-full h-screen">
       <ChatBot></ChatBot>
     </div>
   );
